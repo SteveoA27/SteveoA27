@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I have just started my journey into Cyber Security, but have key knowledge in coding practices. 
+
+With Hyperion I am currently developing my skills of Cyber Security. 
+
 <!--
 **SteveoA27/SteveoA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
