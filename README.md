@@ -15,7 +15,8 @@ Start to interview for roles
 Live healthy and happy 
 
 
-
+I love racing and this is me in my race car
+![image](/Users/stephenayres/Pictures/IMG_0665.JPG)
 
 <!--
 **SteveoA27/SteveoA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
