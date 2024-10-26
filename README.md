@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there and welcome to my github👋
 
 I have just started my journey into Cyber Security, but have key knowledge of coding practices. 
 
