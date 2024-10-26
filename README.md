@@ -16,7 +16,7 @@ Live healthy and happy
 
 
 I love racing and this is me in my race car
-![image](/Users/stephenayres/Pictures/IMG_0665.JPG)
+![image](/Users/stephenayres/Desktop/hyperion/byb_project/IMG_0942.JPG)
 
 <!--
 **SteveoA27/SteveoA27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
