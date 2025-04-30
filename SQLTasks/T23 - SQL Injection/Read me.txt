@@ -1,0 +1,23 @@
+Welcome to the Read Me for SQL Injection
+
+The provided SQL and Python code demonstrate tasks aimed at creating, populating, and manipulating a database, focusing on simulating SQL injection vulnerabilities. Here's a summary of the functions and recommendations for improving security:
+
+Database Creation
+
+A Student table is created using SQL scripts.
+The table includes fields like student_id, first_name, last_name, email, and address_id.
+Foreign key constraints ensure address_id references an Address table.
+
+Data Population
+
+Sample records are inserted into the Student table.
+The data includes fictional characters and placeholder email addresses.
+
+Input Handling Scripts
+
+input1.py reads a name from input1.txt and retrieves records from the Student table.
+input2.py simulates a passwordless login system using email and student_id from input2.txt.
+
+SQL Injection Vulnerability
+
+Directly embedding user inputs (search_string and execute_str) into SQL queries without sanitization introduces potential SQL injection risks.

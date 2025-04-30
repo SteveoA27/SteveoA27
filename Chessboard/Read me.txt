@@ -1,0 +1,17 @@
+Welcome to my Chessboard Game 
+
+I have built an automated chessboard to show how OOP is flexiable and that objects can interact within the main class
+The idea was to create the board and to then construct chess pieces with their designated moves.
+
+The content of this project is as follows
+
+The board in board.py
+The chess figure movements in chess_figure.py
+The ability for the move to happen in chess_figure_stb.py
+Then the chess piece of Pawn in pawn.py
+
+Nothing needs to be installed, it is best used in VScode. 
+
+The code should be run in the order of contents.
+
+Creator Stephen Ayres
